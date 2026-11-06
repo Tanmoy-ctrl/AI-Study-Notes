@@ -1,7 +1,12 @@
 # 🤖 AI Study Guide – LangGraph
 
-Your Personalized AI Learning Assistant
-An intelligent, module-based study assistant powered by LangGraph, LangChain, Groq, and Streamlit.
+<p align="center">
+  <b>Your Personalized AI Learning Assistant</b>
+  <br>
+  An intelligent, module-based study assistant powered by LangGraph, LangChain, Groq, and Streamlit.
+</p>
+
+---
 
 ## 📌 Project Overview
 
